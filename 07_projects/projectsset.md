@@ -5,7 +5,8 @@ Click here -->
 Solution code
 
 
-<!-- project 1 -->
+project 1 solution
+
 
 console.log("hitesh")
 const buttons = document.querySelectorAll('.button');
@@ -34,7 +35,9 @@ buttons.forEach(function (button) {
 
 
 
-<!-- project 2 solution -->
+project 2 solution
+
+
 const form = document.querySelector('form');
 // this usecase will give you empty
 // const height = parseInt(document.querySelector('#height').value)
@@ -59,7 +62,10 @@ form.addEventListener('submit', function (e) {
 
 
 
-<!-- project 3 solution code -->
+project 3 solution code
+
+
+
 const clock = document.getElementById('clock');
 // const clock = document.querySelector('#clock')
 
@@ -72,7 +78,11 @@ setInterval(function () {
 
 
 
-<!-- project 4 solution -->
+project 4 solution
+
+
+
+
 let randomNumber = parseInt(Math.random() * 100 + 1);
 
 const submit = document.querySelector('#subt');
@@ -168,7 +178,12 @@ function newGame() {
 
 
 
-<!-- Project 5 solution -->
+Project 5 solution 
+
+
+
+
+
 const insert = document.getElementById('insert');
 
 window.addEventListener('keydown', (e) => {
@@ -195,7 +210,12 @@ window.addEventListener('keydown', (e) => {
 
 
 
-<!-- Project 6 Solution -->
+Project 6 Solution
+
+
+
+
+
 //generate a random color
 
 const randomColor = function () {
